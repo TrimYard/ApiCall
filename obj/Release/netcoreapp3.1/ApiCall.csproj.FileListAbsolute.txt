@@ -1,0 +1,10 @@
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\ApiCall\bin\Release\netcoreapp3.1\ApiCall.deps.json
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\ApiCall\bin\Release\netcoreapp3.1\ApiCall.dll
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\ApiCall\bin\Release\netcoreapp3.1\ApiCall.pdb
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\ApiCall\obj\Release\netcoreapp3.1\ApiCall.csproj.AssemblyReference.cache
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\ApiCall\obj\Release\netcoreapp3.1\ApiCall.GeneratedMSBuildEditorConfig.editorconfig
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\ApiCall\obj\Release\netcoreapp3.1\ApiCall.AssemblyInfoInputs.cache
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\ApiCall\obj\Release\netcoreapp3.1\ApiCall.AssemblyInfo.cs
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\ApiCall\obj\Release\netcoreapp3.1\ApiCall.csproj.CoreCompileInputs.cache
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\ApiCall\obj\Release\netcoreapp3.1\ApiCall.dll
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\ApiCall\obj\Release\netcoreapp3.1\ApiCall.pdb
